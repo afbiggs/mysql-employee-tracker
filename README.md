@@ -6,7 +6,7 @@
   
   * This application is an Workplace Employee Tracker utilizing `Mysql` database. The app also relies on `node.js` to install and use required dependencies and also `inquire.js` in order to access the application interface through the command line. Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems. This application is a good example of how we can build a visually pleasing interface for managing a company's employee database.
 
-  Link to video walkthrough: https://app.castify.com/view/70c9c5e6-af73-4aa5-b575-
+  Link to video walkthrough: https://app.castify.com/view/70c9c5e6-af73-4aa5-b575-011563131a9c
   
 
   ![](images/mysql-tables.png)
